@@ -86,7 +86,7 @@ Construir experiência prática em desenvolvimento de software, documentar o pro
 4️⃣ APIs  
 5️⃣ Projetos práticos  
 6️⃣ Portfólio completo  
-7️⃣ Frontend (Angular ou React – a definir)
+7️⃣ Frontend (Angular ou React – a definir)  
 8️⃣ Primeiro estágio em tecnologia  
 
 ---
